@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <h1>Search Engine</h1>
       <Apps />
-      <p><a href="#">Open Sourced Project</a> by Tara Bush on <a href="www.netlify.com">Netlify</a></p>
+      <p><a href="https://github.com/taraploy/weather-react">Open Sourced Project</a> by Tara Bush on <a href="https://netlify.com">Netlify</a></p>
     </div>
   );
 }
